@@ -1,0 +1,10 @@
+print(5 < 8)
+print(4 > 5)
+print(8 <= 8)
+print(8 <= 10)
+print(8 <= 7)
+print(9 >= 5)
+print(8 > 7)
+
+print(5 < 8 <= 10)
+print(5 > 8 <= 10)
