@@ -1,0 +1,18 @@
+print(all([True]))
+print(all([True, True]))
+print(all([True, False, True]))
+print(all([1, 2, 3]))
+print(all([1, 2, 3, 0]))
+print(all([]))
+print(all(["a", "b"]))
+print(all(["a", "b", ""]))
+
+print()
+
+print(any([True, False]))
+print(any([False, False]))
+print(any([0, 1]))
+print(any([0]))
+print(any([" ", ""]))
+print(any([""]))
+print(any([]))
